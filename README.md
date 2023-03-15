@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning and Android developement
 - 🌱 I’m currently doing masters in Computer Science at CSUN
 - 🧑🏾‍💻 I'm currently looking for internship apportunities in ML and software developement
 - 📫 Email me at: patil.nikhil12@outlook.com
