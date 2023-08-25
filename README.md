@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nikhil
+- 📍 Los Angeles, CA, USA
 - 👀 I’m interested in Machine learning and Android developement
 - 🌱 I’m currently doing masters in Computer Science at CSUN
-- 🧑🏾‍💻 I'm currently looking for internship apportunities in ML and software developement
+- 🧑🏾‍💻 I'm currently looking for job apportunities in ML, Android and Web developement
 - 📫 Email me at: patil.nikhil12@outlook.com
 
 <!---
