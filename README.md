@@ -2,7 +2,7 @@
 
 - 📍 Los Angeles, CA, USA 🇺🇸
 - 👀 Interested in Machine learning and Android developement
-- 🌱 Currently pursuing masters in Computer Science at CSUN
+- 🌱 Masters in Computer Science
 - 🧑🏾‍💻 Currently looking for job apportunities in ML, Android and Web developement
 - 📫 Email me at: <patil.nikhil12@outlook.com>
 <div align="center">
