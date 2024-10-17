@@ -7,7 +7,6 @@
 - 📫 Email me at: <patil.nikhil12@outlook.com>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilpatil12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nikhilpatil12"/>
   <img src="https://myreadme.vercel.app/api/embed/nikhilpatil12?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <img src="https://jokerr.nikpatil.com/api/image" alt="myownwidget" />
 </div>
