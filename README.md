@@ -25,7 +25,7 @@
     alt="Top Languages"
   />
   <img
-    src="https://jokerr.nikpatil.com/api/image?style=retro"
+    src="https://jokerr.nikpatil.com/api/image?style=retro&animation=typewriter"
     alt="Custom Widget"
   />
 </div>
