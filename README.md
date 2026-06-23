@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm Nikhil Patil
 
 - 📍 Ratnagiri, Maharashtra, India 🇮🇳
